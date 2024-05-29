@@ -1,0 +1,8 @@
+[
+  {
+    "package": "kanjistat.data",
+    "url": "https://github.com/dschuhmacher/kanjistat.data",
+    "via": ["kanjistat"],
+    "from": "kanjistat"
+  }
+]
