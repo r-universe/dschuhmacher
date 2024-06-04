@@ -5,7 +5,3 @@
 [submodule "kanjistat"]
 	path = kanjistat
 	url = https://github.com/dschuhmacher/kanjistat
-[submodule "kanjistat.data"]
-	path = kanjistat.data
-	url = https://github.com/dschuhmacher/kanjistat.data
-	registered = false
